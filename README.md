@@ -24,7 +24,7 @@ Este é um projeto de uma calculadora simples desenvolvida para Android utilizan
 
 
 
-# En-US Simple Calculator for Android
+# Simple Calculator for Android
 
 This is a simple calculator app developed for Android using Kotlin in Android Studio. The calculator offers basic functionalities such as addition, subtraction, multiplication, and division.
 
