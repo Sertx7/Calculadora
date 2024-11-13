@@ -21,10 +21,8 @@ Este é um projeto de uma calculadora simples desenvolvida para Android utilizan
 - SDK do Android: Você pode configurar isso diretamente no Android Studio.
 - Dispositivo ou Emulador Android para testar a aplicação.
 
-![Aplicação](https://i.imgur.com/2JZIMuV.png)
 
   
-
 
 
 # Simple Calculator for Android
@@ -48,6 +46,11 @@ This is a simple calculator app developed for Android using Kotlin in Android St
 - Android Studio (with Kotlin support)
 - Android SDK: You can configure this directly in Android Studio.
 - Device or Android Emulator to test the application.
+
+
+# Visual do Sistema em Execução/System in Action
+
+![Aplicação](https://i.imgur.com/2JZIMuV.png)
 
 
   
