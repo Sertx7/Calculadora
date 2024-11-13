@@ -4,9 +4,9 @@ Este é um projeto de uma calculadora simples desenvolvida para Android utilizan
 
 # Funcionalidades
 
-- Operações Básicas**: Adição, Subtração, Multiplicação e Divisão.
-- **Interface Simples**: Design minimalista para fácil interação.
-- **Resultados Instantâneos**: Exibe resultados conforme os usuários pressionam os botões.
+- Operações Básicas: Adição, Subtração, Multiplicação e Divisão.
+- Interface Simples: Design minimalista para fácil interação.
+- Resultados Instantâneos: Exibe resultados conforme os usuários pressionam os botões.
 
 
 # Tecnologias Utilizadas
