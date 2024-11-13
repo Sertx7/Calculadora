@@ -22,9 +22,9 @@ Este é um projeto de uma calculadora simples desenvolvida para Android utilizan
 - Dispositivo ou Emulador Android para testar a aplicação.
   
 
- # En-US
 
-# Simple Calculator for Android
+
+# En-US Simple Calculator for Android
 
 This is a simple calculator app developed for Android using Kotlin in Android Studio. The calculator offers basic functionalities such as addition, subtraction, multiplication, and division.
 
