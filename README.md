@@ -21,8 +21,7 @@ Este é um projeto de uma calculadora simples desenvolvida para Android utilizan
 - SDK do Android: Você pode configurar isso diretamente no Android Studio.
 - Dispositivo ou Emulador Android para testar a aplicação.
 
- ![Aplicação]([https://www.dropbox.com/scl/fi/ro81ss0adi9s5ni76jtsv/Captura-de-tela-2024-11-13-165629.jpg?raw=1](https://www.dropbox.com/s/ro81ss0adi9s5ni76jtsv/Captura-de-tela-2024-11-13-165629.jpg?raw=1
-)
+![Aplicação](https://i.imgur.com/2JZIMuV.png)
 
   
 
