@@ -20,6 +20,8 @@ Este é um projeto de uma calculadora simples desenvolvida para Android utilizan
 - Android Studio (com suporte ao Kotlin)
 - SDK do Android: Você pode configurar isso diretamente no Android Studio.
 - Dispositivo ou Emulador Android para testar a aplicação.
+
+  ![Calculator Screenshot](https://imgur.com/v3LnDvG)
   
 
 
